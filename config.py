@@ -1,0 +1,6 @@
+BASE_URL = "data.edmonton.ca"
+APP_TOKEN = "KzKc6rMjI95PHZ4xcuUiRsVTc"
+CLIENT_ENDPOINT = "q7d6-ambg"
+RETRY_COUNT = 3
+RETRY_DELAY = 5
+RATE_LIMIT_DELAY = 1 
